@@ -10,3 +10,11 @@ renku_context.txt
 adult.zip
 data/mine/
 Colab_Setup.ipynb
+
+
+# local environment files - info: .toml & .python-version were created for uv users based on requirements file
+*.lock
+.venv/
+
+# VSCode settings
+.vscode/
